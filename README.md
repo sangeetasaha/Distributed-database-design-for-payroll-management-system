@@ -1,1 +1,1 @@
-# Distributed-database-design-for-payroll-management-system
+The document consists of the heterogeneous distributed database design including the formation and implementation of relevant queries, constraints, number of sites, the EER diagram, normalization, fragmentation and physical data allocation.
